@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_youtube_ui/data.dart';
 
-class CustomSliverappBar extends StatelessWidget {
+class CustomSliverAppBar extends StatelessWidget {
 
 
   @override
